@@ -4,6 +4,7 @@ NeoVim configs in Lua
 with:
 - packer.nvim
 - nvim-tree
+- nvim-treesitter
 - catppuccin
 
 # How to Use:
