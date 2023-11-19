@@ -10,3 +10,6 @@ with:
 
 # How to Use:
 Just copy `int.lua` and the `lua folder` to the neovim config folder `~/.config/nvim/`
+
+# Install plugins:
+Open `~/.config/nvim/lua/core/plgins.lua` with NeoVim and use `:PackerSync` command
