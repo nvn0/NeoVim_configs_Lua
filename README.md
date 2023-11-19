@@ -5,6 +5,7 @@ with:
 - packer.nvim
 - nvim-tree
 - nvim-treesitter
+- Lualine
 - catppuccin
 
 # How to Use:
